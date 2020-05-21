@@ -1,0 +1,9 @@
+$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "udacity-app" already exists
+NAME          READY   STATUS    RESTARTS   AGE
+udacity-app   1/1     Running   0          3m26s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
