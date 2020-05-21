@@ -4,7 +4,7 @@
 
 
 ## Project Overview
-Deploy a containerized Python flask application to serve out predictions (inference) about housing prices through API calls. It uses a a pre-trained, `sklearn` model that has been trained to predict housing prices in Boston according to several features. 
+Deploy a containerized Python  application to serve out predictions about housing prices through API calls. 
 
 ### Project Procedure
 * Test project code using linting
@@ -12,5 +12,5 @@ Deploy a containerized Python flask application to serve out predictions (infere
 * Deploy containerized application using Docker and make a prediction
 * Configure Kubernetes and create a Kubernetes cluster
 * Deploy a container using Kubernetes and make a prediction
-* Upload a complete Github repo with CircleCI to indicate the code has been tested
+* Upload a complete Github repo with CircleCI to indicate the code has been tested (Not done)
 
